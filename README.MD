@@ -47,5 +47,5 @@
 
 &copy; 2023 GistWillan，由 Hexo & Theme Vivia 驱动。
 
-![萌ICP备20233940号](https://icp.gov.moe/?keyword=20233940)
+[萌ICP备20233940号](https://icp.gov.moe/?keyword=20233940)
 
