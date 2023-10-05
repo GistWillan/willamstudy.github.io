@@ -12,6 +12,7 @@
 
 我会不定期更新我的学习笔记，以下是最新的几篇文章：
 
+- [智能家居题目](https://study.gistwillanblog.top/2023/10/04/%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E9%A2%98%E7%9B%AE/):这是一篇关于智能家居题目的文章，本文内容将随着时间变化而更新。
 - [操作系统复习纲要](https://willamstudy.pages.dev/2023/04/23/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E7%BA%B2%E8%A6%81/): 这是一篇关于操作系统这门课程的总复习纲要，内容会随着时间更新。
 - [智能农业/物联网施工笔记内容](https://willamstudy.pages.dev/2023/04/26/%E6%99%BA%E8%83%BD%E5%86%9C%E4%B8%9A%E7%AC%94%E8%AE%B0%E5%86%85%E5%AE%B9/): 这是智能农业/物联网施工课程的笔记内容，会不断更新。
 - [农业/现代物联网笔记内容](https://willamstudy.pages.dev/2023/04/26/%E5%86%9C%E4%B8%9A-%E7%8E%B0%E4%BB%A3%E7%89%A9%E8%81%94%E7%BD%91%E7%AC%94%E8%AE%B0%E5%86%85%E5%AE%B9/): 这篇文章记录了农业/现代物联网课程的笔记，会定期更新。
@@ -22,13 +23,14 @@
 
 ### 分类
 
-- [农业/现代物联网](https://willamstudy.pages.dev/categories/%E5%86%9C%E4%B8%9A-%E7%8E%B0%E4%BB%A3%E7%89%A9%E8%81%94%E7%BD%91/): 这里包含了关于农业和现代物联网领域的学习笔记。
 - [操作系统](https://willamstudy.pages.dev/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/): 这个分类包括了与操作系统相关的学习内容。
+- [农业/现代物联网](https://willamstudy.pages.dev/categories/%E5%86%9C%E4%B8%9A-%E7%8E%B0%E4%BB%A3%E7%89%A9%E8%81%94%E7%BD%91/): 这里包含了关于农业和现代物联网领域的学习笔记。
 
 ### 标签
 
 我还使用标签来进一步分类我的文章，以下是一些常见标签：
 
+- [题目](https://study.gistwillanblog.top/tags/%E9%A2%98%E7%9B%AE/):这个标签用于标记题目的文章。
 - [复习](https://willamstudy.pages.dev/tags/%E5%A4%8D%E4%B9%A0/): 这个标签用于标记与复习相关的文章。
 - [笔记](https://willamstudy.pages.dev/tags/%E7%AC%94%E8%AE%B0/): 这个标签用于标记我的学习笔记文章。
 
