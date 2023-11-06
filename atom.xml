@@ -6,10 +6,33 @@
   <link href="https://willamstudy.pages.dev/atom.xml" rel="self"/>
   
   <link href="https://willamstudy.pages.dev/"/>
-  <updated>2023-10-04T14:39:29.965Z</updated>
+  <updated>2023-11-06T17:35:01.406Z</updated>
   <id>https://willamstudy.pages.dev/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>复习资料整理</title>
+    <link href="https://willamstudy.pages.dev/2023/11/06/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/"/>
+    <id>https://willamstudy.pages.dev/2023/11/06/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/</id>
+    <published>2023-11-06T17:25:17.000Z</published>
+    <updated>2023-11-06T17:35:01.406Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>这是一篇整理了我在校的所有复习资料的文章，本文内容将随着时间变化而更新。</em></p><span id="more"></span><p>智能农业复习资料（其中包括Python的练习题）：<a href="https://willamgu-my.sharepoint.com/:f:/g/personal/gistwillan_willamgu_onmicrosoft_com/Ek9XghQ2lZNBrdVxnJVzJrkB25JnMXD4r1bfmiT7tqCACQ">点击跳转</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;em&gt;这是一篇整理了我在校的所有复习资料的文章，本文内容将随着时间变化而更新。&lt;/em&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="整理" scheme="https://willamstudy.pages.dev/categories/%E6%95%B4%E7%90%86/"/>
+    
+    
+    <category term="复习" scheme="https://willamstudy.pages.dev/tags/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="整理" scheme="https://willamstudy.pages.dev/tags/%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>智能家居题目</title>
@@ -99,9 +122,9 @@
     
     <category term="笔记" scheme="https://willamstudy.pages.dev/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="操作系统" scheme="https://willamstudy.pages.dev/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
     <category term="复习" scheme="https://willamstudy.pages.dev/tags/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="操作系统" scheme="https://willamstudy.pages.dev/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
