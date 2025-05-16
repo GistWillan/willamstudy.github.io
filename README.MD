@@ -37,7 +37,7 @@
 
 这个学习笔记网页是使用 [Hexo](https://hexo.io/) 框架构建的，使用了 [Vivia](https://github.com/saicaca/hexo-theme-vivia) 主题。网页的源代码可以在 [GitHub](https://github.com/GistWillan) 上找到。
 
-&copy; 2024 GistWillan，由 Hexo & Theme Vivia 驱动。
+&copy; 2025 GistWillan，由 Hexo & Theme Vivia 驱动。
 
 [萌ICP备20233940号](https://icp.gov.moe/?keyword=20233940)
 
